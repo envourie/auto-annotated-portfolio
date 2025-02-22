@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: '"live to the point of tears"'
+    title: Danesh's——blog.
     subtitle: Danesh's——blog.
     styles:
       self:
