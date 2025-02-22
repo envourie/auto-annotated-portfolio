@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Virus __2.jpeg
+  url: /images/Anna Malina - Debris.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
