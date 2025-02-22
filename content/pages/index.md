@@ -14,7 +14,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Danesh's——blog.
-    subtitle: just an ordinary girl living in indonesia with three cats at home.
+    subtitle: >-
+      just an ordinary girl living in indonesia with three cats at home. & she
+      loves tteobokki, coffe, stickers, trinkets, keychains, making websites:3
     styles:
       self:
         height: auto
