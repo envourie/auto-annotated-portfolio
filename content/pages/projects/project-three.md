@@ -4,7 +4,7 @@ title: '☆ slices of my life '
 colors: colors-a
 date: '2025-02-23'
 client: ''
-description: 'sneak-peak if you want to know more about me hoho :3'
+description: 'take a peek if you want to know more about me hoho :3'
 featuredImage:
   type: ImageBlock
   url: /images/bg3.jpg
