@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/doc_2025-02-23_01-25-24.gif
+  url: /images/yas.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
