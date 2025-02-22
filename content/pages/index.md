@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/yas.gif
+  url: /images/doc_2025-02-23_01-20-42-ezgif.com-video-to-gif-converter.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
