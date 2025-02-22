@@ -7,7 +7,7 @@ client: ''
 description: just an archive of my designs & some other stuff i did!
 featuredImage:
   type: ImageBlock
-  url: /images/Maudelynn's Menagerie.gif
+  url: /images/Gloria Stuart in The Old Dark House (1932)_.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
