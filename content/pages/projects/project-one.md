@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: my—designs  & other stuff★
+title: my—designs  & etc ★
 colors: colors-a
 date: '2025-02-23'
 client: ''
