@@ -4,7 +4,7 @@ title: my—designs ★
 colors: colors-a
 date: '2025-02-23'
 client: ''
-description: just an archive of my designs
+description: just an archive of my designs & some other stuff i did!
 featuredImage:
   type: ImageBlock
   url: /images/bg1.jpg
