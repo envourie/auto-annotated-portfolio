@@ -1,6 +1,6 @@
 ---
 type: ProjectFeedLayout
-title: Projects
+title: archive
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
