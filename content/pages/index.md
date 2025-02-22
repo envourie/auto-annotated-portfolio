@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Aquarium Drunkard.jpeg
+  url: /images/download (23).jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
