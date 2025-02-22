@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: '☆ slices of my life xixi :3'
+title: '☆ slices of my life '
 colors: colors-a
 date: '2022-01-22'
 client: Awesome client
