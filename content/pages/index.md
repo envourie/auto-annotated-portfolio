@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/the poet.jpeg
+  url: /images/Aquarium Drunkard.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
