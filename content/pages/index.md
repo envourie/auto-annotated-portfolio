@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg1.jpg
+  url: /images/the poet.jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
