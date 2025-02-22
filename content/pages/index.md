@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Danesh's——blog.
-    subtitle: just an ordinary girl living in indonesia with three
+    subtitle: just an ordinary girl living in indonesia with three cats at home.
     styles:
       self:
         height: auto
