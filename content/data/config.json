@@ -38,6 +38,14 @@
                 "label": "GitHub",
                 "url": "https://github.com/envourie",
                 "icon": "github"
+            },
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "https://x.com/fettucciene",
+                "icon": "twitter",
+                "elementId": ""
             }
         ],
         "styles": {
