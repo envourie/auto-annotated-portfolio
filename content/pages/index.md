@@ -4,7 +4,7 @@ title: home
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Anna Malina - Debris.gif
+  url: /images/download.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
