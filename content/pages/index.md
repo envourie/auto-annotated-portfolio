@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Danesh's——blog.
-    subtitle: Danesh's——blog.
+    subtitle: just an ordinary girl living in indonesia with three
     styles:
       self:
         height: auto
