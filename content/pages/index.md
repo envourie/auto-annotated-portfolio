@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: Danesh's——blog.
     subtitle: >-
       just an ordinary girl living in indonesia with three cats at home. & she
