@@ -7,7 +7,7 @@ client: ''
 description: just an archive of my designs & some other stuff i did!
 featuredImage:
   type: ImageBlock
-  url: /images/download (1).gif
+  url: /images/Maudelynn's Menagerie.gif
   altText: Project thumbnail image
 media:
   type: ImageBlock
