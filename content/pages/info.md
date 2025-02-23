@@ -76,7 +76,7 @@ sections:
         borderStyle: solid
   - type: TextSection
     variant: variant-a
-    subtitle: 'Contact:'
+    subtitle: find me on
     colors: colors-f
     text: |
       [danesshaa@gmail.com](danesshaa@gmail.com)
