@@ -79,7 +79,11 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [danesshaa@gmail.com](danesshaa@gmail.com)
+
+      [@fettucciene ](https://x.com/fettucciene)
+
+      [@logarm ](https://www.instagram.com/logarsm/)
   - type: DividerSection
     styles:
       self:
