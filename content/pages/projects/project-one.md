@@ -28,7 +28,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/photo_2025-02-23_09-22-50.jpg
         altText: Image one
-        caption: Image one caption
+        caption: photopea
         elementId: ''
       - type: ImageBlock
         url: /images/photo_2025-02-23_09-22-48.jpg
