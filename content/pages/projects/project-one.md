@@ -38,7 +38,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/WES ANDERSON —.png
         altText: Image four
-        caption: Image four caption
+        caption: canva
         elementId: ''
     colors: colors-f
     spacing: 16
