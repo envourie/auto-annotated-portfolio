@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: '☆ slices of my life '
+title: ''
 colors: colors-a
 date: '2025-02-23'
 client: ''
