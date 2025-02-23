@@ -11,7 +11,7 @@ media:
   altText: Project image
 featuredImage:
   type: ImageBlock
-  url: /images/1000271198.png
+  url: /images/Anna Malina - Debris.gif
   altText: Project image
 ---
 
