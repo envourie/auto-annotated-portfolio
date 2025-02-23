@@ -45,7 +45,7 @@ bottomSections:
   - type: QuoteSection
     quote: "> *\"the taste of forgotten memories lingers like a bitter poison on the tongue—slow, creeping, and inescapable.\_\"*\n\n"
     name: danesh
-    title: Product Marketing Manager at Acme
+    title: fettuccine lover
     colors: colors-f
     elementId: ''
     styles:
