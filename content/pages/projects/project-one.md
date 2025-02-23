@@ -23,7 +23,7 @@ backgroundImage:
 bottomSections:
   - type: MediaGallerySection
     title: other results
-    subtitle: This is the subtitle
+    subtitle: using other apps!
     images:
       - type: ImageBlock
         url: /images/photo_2025-02-23_09-22-50.jpg
