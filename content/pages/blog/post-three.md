@@ -2,7 +2,7 @@
 type: PostLayout
 title: The headless pianist
 colors: colors-b
-date: '2024-01-01'
+date: '2025-02-23'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
