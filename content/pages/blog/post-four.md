@@ -4,7 +4,7 @@ title: the weight of moving forward
 colors: colors-a
 date: '2025-02-23'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'navigating change, loss, and the passage of time'
 featuredImage:
   type: ImageBlock
   url: /images/⁂.gif
