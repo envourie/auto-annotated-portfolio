@@ -22,7 +22,7 @@ backgroundImage:
   opacity: 100
 bottomSections:
   - type: MediaGallerySection
-    title: other results
+    title: 'other results & '
     subtitle: using other apps!
     images:
       - type: ImageBlock
