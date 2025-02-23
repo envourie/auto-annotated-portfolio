@@ -2,7 +2,7 @@
 type: PostLayout
 title: the weight of moving forward
 colors: colors-a
-date: '2024-02-01'
+date: '2025-02-23'
 author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
