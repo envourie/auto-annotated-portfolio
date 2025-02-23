@@ -36,7 +36,7 @@ sections:
 
     media:
       type: ImageBlock
-      url: /images/photo_2025-02-23_11-49-40-Photoroom.jpg
+      url: /images/photo_2025-02-23_12-30-10.jpg
       altText: me
     styles:
       self:
