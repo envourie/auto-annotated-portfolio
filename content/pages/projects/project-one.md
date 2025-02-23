@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Anna Malina - Debris.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
