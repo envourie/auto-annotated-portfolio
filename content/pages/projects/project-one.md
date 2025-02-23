@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/download (1).gif
+  url: /images/download (23).jpeg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
