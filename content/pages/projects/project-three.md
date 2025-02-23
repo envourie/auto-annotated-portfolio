@@ -15,7 +15,7 @@ featuredImage:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/download.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
