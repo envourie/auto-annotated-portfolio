@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/Maudelynn's Menagerie.gif
+  url: /images/Buster Keaton (1).gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
