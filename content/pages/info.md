@@ -21,7 +21,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/photo_2025-02-23_11-49-40.jpg
-      altText: Hero image
+      altText: me
     styles:
       self:
         height: auto
