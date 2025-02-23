@@ -4,7 +4,7 @@ title: forgotten
 colors: colors-a
 date: '2025-02-23'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: '**"echoes of yesterday: the weight of nostalgia and fleeting moments"**'
 featuredImage:
   type: ImageBlock
   url: /images/download (2).gif
