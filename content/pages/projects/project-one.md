@@ -33,7 +33,7 @@ bottomSections:
       - type: ImageBlock
         url: /images/photo_2025-02-23_09-22-48.jpg
         altText: Image two
-        caption: Image two caption
+        caption: ibispaint x
         elementId: ''
       - type: ImageBlock
         url: /images/WES ANDERSON —.png
