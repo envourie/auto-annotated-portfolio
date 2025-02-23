@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: ''
+title: the weight of moving forward
 colors: colors-a
 date: '2024-02-01'
 author: content/data/team/doris-soto.json
