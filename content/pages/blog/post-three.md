@@ -109,8 +109,6 @@ bottomSections:
       text:
         textAlign: left
 ---
-### **The Headless Pianist**
-
 In a dimly lit corner of an old jazz club, a forgotten melody played on. The piano keys moved with grace, the notes haunting yet beautiful. The patrons whispered among themselves, their glasses trembling in their hands. No one sat at the piano bench.
 
 Or rather—no one they could see.
@@ -122,6 +120,3 @@ Decades ago, James "Hollow" Hargrove had been the club’s most beloved pianist.
 James was never seen again. The piano was removed, the club nearly shut down. Yet, every midnight, the melody returned. The ghostly hands appeared from behind the curtain, moving across the unseen keys, playing a song only the dead could truly hear.
 
 And if you listened too closely, you could almost hear the faint sound of breathless laughter—of a headless pianist lost in his music forever.
-
-
-
