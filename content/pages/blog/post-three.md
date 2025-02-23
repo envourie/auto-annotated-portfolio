@@ -15,7 +15,7 @@ backgroundImage:
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 65
+  opacity: 79
 bottomSections:
   - elementId: ''
     type: RecentPostsSection
