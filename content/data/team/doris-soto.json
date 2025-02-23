@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "danesh",
+    "lastName": "",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/photobooth (2).png",
+        "altText": "photo"
+    },
+    "role": "fettucine lover",
+    "bio": "i love sebong;3 yoshi yuki molly palm sugar lawson point tomoro designing editing\n"
 }
