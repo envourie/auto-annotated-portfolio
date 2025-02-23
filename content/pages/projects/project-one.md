@@ -18,7 +18,7 @@ backgroundImage:
   url: /images/download (1).gif
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat
+  backgroundRepeat: repeat-y
   opacity: 100
 ---
 
