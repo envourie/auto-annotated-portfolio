@@ -5,10 +5,6 @@ colors: colors-a
 date: '2025-02-23'
 client: ''
 description: 'take a peek if you want to know more about me hoho :3'
-featuredImage:
-  type: ImageBlock
-  url: /images/Anna Malina - Debris.gif
-  altText: Project thumbnail image
 media:
   type: ImageBlock
   url: /images/bg3.jpg
