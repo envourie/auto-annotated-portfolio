@@ -4,7 +4,7 @@ title: ☆ SNAP—SHOOT
 colors: colors-a
 date: '2025-02-23'
 client: ''
-description: 'take a peek if you want to know more about me hoho :3 & my photography'
+description: 'take a peek if you want to know more about me hoho & my photography :'
 media:
   type: ImageBlock
   url: /images/InCollage_20250223_105355947.png
