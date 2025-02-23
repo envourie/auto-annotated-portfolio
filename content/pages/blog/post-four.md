@@ -1,14 +1,13 @@
 ---
 type: PostLayout
-title: Sharing my wisdom with the world 🌎
+title: the weight of moving forward
 colors: colors-a
-date: '2024-02-01'
+date: '2025-02-23'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: 'navigating change, loss, and the passage of time'
 featuredImage:
   type: ImageBlock
-  url: /images/featured-Image4.jpg
+  url: /images/⁂.gif
   altText: Post thumbnail image
 bottomSections:
   - elementId: ''
@@ -43,93 +42,22 @@ bottomSections:
         justifyContent: center
     showFeaturedImage: true
     showReadMoreLink: true
-  - type: ContactSection
-    backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
-    colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
-        padding:
-          - pt-24
-          - pb-24
-          - pr-4
-          - pl-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      text:
-        textAlign: left
 ---
+life has a way of moving forward even when you feel like standing still, of shifting beneath your feet before you even realize the ground is changing. it does not wait, does not pause for breath, does not soften its edges to make things easier. it pulls and stretches, carving itself into you in ways you never expected. sometimes it is gentle, like the warmth of sunlight through an open window, and other times it is relentless, pressing into you until you become something else entirely.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
-
-## Heading 2
-
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
-
-### Heading 3
-
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque.
-
-```javascript
-{
-  page.content && (
-    <Markdown
-      options={{ forceBlock: true, overrides: { pre: HighlightedPreBlock } }}
-      className="sb-markdown max-w-screen-md mx-auto"
-      data-sb-field-path="content"
-    >
-      {page.content}
-    </Markdown>
-  );
-}
+```
+i have learned that life does not promise consistency. one moment, it is laughter echoing in the distance, the taste of something sweet on your tongue, the feeling of a hand in yours. the next, it is silence that lingers too long, a door that closes before you are ready. it is filled with things that slip through your fingers—conversations that never happen, moments you think will last forever but don’t, the quiet realization that nothing ever stays the same.
 ```
 
-In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+there are days when it feels light, where everything moves with an effortless rhythm, like the world is in sync with your heartbeat. but there are also days when it feels heavier, like something unseen is pressing into your shoulders, making every step just a little harder. you carry the weight of things unsaid, the burden of what you should have done, the pieces of yourself you have left behind in places you can’t return to.
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+the past lingers in the spaces between now and what comes next. it shows up in the scent of something familiar, in the way a song can transport you to a moment long gone, in the places you used to know that no longer feel the same. you try to move forward, but the past is always there, woven into your skin, stitched into your thoughts.
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+i have come to understand that life is made of contrasts—joy and sorrow, beginnings and endings, presence and absence. we chase after happiness as if it is something permanent, as if it is not just another fleeting moment in a long string of fleeting moments. we hold onto things too tightly, afraid of what it means to let go, afraid of what might happen if we open our hands and watch something slip away.
+
+but maybe that is the way life is meant to be—something that is felt deeply, something that comes and goes, something that refuses to be held in place. we are not meant to stay unchanged. we are meant to shift, to break apart and come back together in new ways, to carry the echoes of where we have been while still making room for where we are going.
+
+there is no certainty in this. no promise that everything will turn out the way we want it to. no guarantee that the things we love will stay. but there is movement, always movement. there is something waiting beyond the horizon, something unknown, something we have not yet touched. and maybe, just maybe, that is enough.
+
+
+
