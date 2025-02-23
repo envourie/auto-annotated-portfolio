@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Danesh's——blog.
+    title: Danesh's——PAGE.
     subtitle: >-
       just an ordinary girl living in indonesia with three cats at home. & she
       loves tteobokki, coffe, stickers, trinkets, keychains, making websites:3
