@@ -13,11 +13,27 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >+
+      i find beauty in the small moments—the way light spills onto a quiet
+      street, the way shadows stretch in the afternoon, the way a song lingers
+      in the air like a memory. designing and editing moodboards is how i bring
+      my thoughts to life, blending images that feel like pieces of a dream.
+      music is always playing in the background, setting the tone for my
+      creativity. from the smooth melodies of seventeen and the hazy nostalgia
+      of tv girl to the timeless elegance of ella fitzgerald and chet baker,
+      every song becomes a soundtrack to my world.
+
+
+      photography lets me capture the details that others might overlook—the
+      softness of a passing glance, the flicker of neon on rainy pavement, the
+      way jazz seems to hum in the stillness of the night. vintage aesthetics
+      and film noir vibes inspire me, infusing my work with a sense of nostalgia
+      and depth. whether through images, music, or the stories i tell in my art,
+      i try to hold onto emotions, turning fleeting moments into something
+      lasting.
+
+
+
     media:
       type: ImageBlock
       url: /images/photo_2025-02-23_11-49-40-Photoroom.jpg
