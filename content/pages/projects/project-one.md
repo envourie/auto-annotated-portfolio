@@ -15,7 +15,7 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/Buster Keaton (1).gif
+  url: /images/download (1).gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: repeat
