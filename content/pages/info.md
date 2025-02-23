@@ -4,7 +4,7 @@ title: About
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/download.gif
+  url: /images/download (1).gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
