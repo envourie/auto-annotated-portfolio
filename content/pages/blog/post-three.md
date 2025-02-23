@@ -7,7 +7,7 @@ author: content/data/team/doris-soto.json
 excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
-  url: /images/download (3).gif
+  url: /images/download (4).gif
   altText: Post thumbnail image
 backgroundImage:
   type: BackgroundImage
