@@ -4,7 +4,7 @@ title: Blog
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
+  url: /images/Maudelynn's Menagerie.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
