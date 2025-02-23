@@ -7,7 +7,7 @@ client: ''
 description: 'take a peek if you want to know more about me hoho :3'
 media:
   type: ImageBlock
-  url: /images/bg3.jpg
+  url: /images/Anna Malina - Debris.gif
   altText: Project image
 ---
 
