@@ -15,7 +15,7 @@ featuredImage:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/download.gif
+  url: /images/Anna Malina - Debris.gif
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
