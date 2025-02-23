@@ -4,7 +4,7 @@ title: The headless pianist
 colors: colors-b
 date: '1897-12-29'
 author: content/data/team/doris-soto.json
-excerpt: More context that may or may not be helpful
+excerpt: 'where the music never dies, but the pianist already has.*'
 featuredImage:
   type: ImageBlock
   url: /images/download (4).gif
