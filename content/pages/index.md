@@ -14,9 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: Danesh's——PAGE.
-    subtitle: >-
-      just an ordinary girl living in indonesia with three cats at home. & she
-      loves tteobokki, coffe, stickers, trinkets, keychains, making websites:3
+    subtitle: "just an ordinary girl living in indonesia with three cats at home. & she loves tteobokki, coffe, stickers, trinkets, keychains, designing n editing &\_ making websites:3"
     styles:
       self:
         height: auto
