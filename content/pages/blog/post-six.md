@@ -44,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: QuoteSection
     quote: "> **\"The taste of forgotten memories lingers like a bitter poison on the tongue—slow, creeping, and inescapable.\_\"**\n>\n>\n>\n\n"
-    name: Johnna Doe
+    name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
